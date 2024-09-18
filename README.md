@@ -5,7 +5,9 @@ Ejemplo de Clases POO
 - ![image](https://github.com/user-attachments/assets/bbe2784f-6d62-49df-9743-6cf7105ce742)
 -
 ## Resultado:
-- ![image](https://github.com/user-attachments/assets/8dc607b5-c74e-4d42-80bd-cd35b55ac73e)
+- ![image](https://github.com/user-attachments/assets/57f7d1ce-9eb8-4ae7-971e-05ed3c874aae)
+
+
 
 
 
